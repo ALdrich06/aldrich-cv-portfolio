@@ -82,3 +82,7 @@ Check at 375px (phone), 768px (tablet), and 1440px (desktop): readable text, no 
 ## Collaborative academic projects
 
 The student confirmed Aldrich served as a developer for CoopNexus (capstone, in development), BananaGuard (Data Mining), and PlayMate (HCI and Technopreneurship). Project descriptions and technology context come from the shared academic portfolio at https://github.com/pearlsulana/pearlsulana.github.io. Links lead to teammate Pearl's project previews; no unverified source-code repository links are claimed.
+
+## Project detail pages
+
+`capstone.html`, `data-mining.html`, and `hci-techno.html` provide local project details with selected original project visuals and a responsive layout. The design is specific to this CV. PlayMate live demo: https://playmate-chess.netlify.app/. Source project visuals are retained from the shared academic portfolio.
