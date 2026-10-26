@@ -52,7 +52,7 @@ Then visit http://localhost:3000. No installation is needed.
 ## Repository and live website
 
 - **GitHub repository:** https://github.com/ALdrich06/aldrich-cv-portfolio
-- **Live Vercel URL:** Pending deployment — replace this text with the actual production URL after deployment.
+- **Live Vercel URL:** https://aldrich-cv-portfolio.vercel.app
 
 ## Deploy to Vercel
 
