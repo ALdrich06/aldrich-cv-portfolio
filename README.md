@@ -78,3 +78,7 @@ No work history, credentials, account links, or project accomplishments have bee
 ## Manual verification
 
 Check at 375px (phone), 768px (tablet), and 1440px (desktop): readable text, no horizontal overflow, usable navigation, visible focus states, and correct project layout. Test the mobile Menu button and Escape key, each navigation anchor, email/phone/GitHub links, reduced-motion mode, JavaScript-disabled navigation, and Print / save CV.
+
+## Collaborative academic projects
+
+The student confirmed Aldrich served as a developer for CoopNexus (capstone, in development), BananaGuard (Data Mining), and PlayMate (HCI and Technopreneurship). Project descriptions and technology context come from the shared academic portfolio at https://github.com/pearlsulana/pearlsulana.github.io. Links lead to teammate Pearl's project previews; no unverified source-code repository links are claimed.
